@@ -7,7 +7,7 @@
 ###################################################################################
 
 {
-    'name': 'Bootstrap Icons',
+    'name': 'Bootstrap',
     'version': '15.1.9.0.1',
     'summary': """ 
             Cybernetics Plus Install Bootstrap v 5.2 in Odoo
