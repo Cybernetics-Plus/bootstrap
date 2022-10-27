@@ -8,7 +8,7 @@
 
 {
     'name': 'Bootstrap',
-    'version': '15.1.9.0.1',
+    'version': '13.1.9.0.1',
     'summary': """ 
             Cybernetics Plus Install Bootstrap v 5.2 in Odoo
             .""",
@@ -18,10 +18,10 @@
     'author': 'Cybernetics Plus Co., Ltd.',
     'website': 'https://www.cybernetics.plus',
     'live_test_url': 'https://www.cybernetics.plus',
-    'images': ['static/description/banner.png'],
+    'images': ['static/description/banner.gif'],
     'category': 'Extra Tools',
     'license': 'AGPL-3',
-    'price': 3.9,
+    'price': 1.9,
     'currency': 'EUR',
     'installable': True,
     'application': True,
