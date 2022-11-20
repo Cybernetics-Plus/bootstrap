@@ -17,6 +17,8 @@
             .""",
     "author": "Cybernetics Plus",
     "website": "https://www.cybernetics.plus",
+    "company": "Cybernetics Plus Co., Ltd.",
+    "maintainer": "Cybernetics Plus Co., Ltd.",
     "live_test_url": "https://www.cybernetics.plus",
     "images": ["static/description/banner.gif"],
     "category": "Extra Tools",
@@ -27,7 +29,7 @@
     "application": True,
     "auto_install": True,
     "contributors": [
-        "Developer <dev@cybernetics.plus>",
+        "C+ Developer <dev@cybernetics.plus>",
     ],
     "assets": {
         "web.assets_qweb": [
