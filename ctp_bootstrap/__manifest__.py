@@ -16,9 +16,9 @@
             Install Bootstrap v 5.2 in Odoo
             .""",
     "author": "Cybernetics Plus",
-    "website": "https://www.cybernetics.plus",
     "company": "Cybernetics Plus Co., Ltd.",
     "maintainer": "Cybernetics Plus Co., Ltd.",
+    "website": "https://www.cybernetics.plus",
     "live_test_url": "https://www.cybernetics.plus",
     "images": ["static/description/banner.gif"],
     "category": "Extra Tools",
